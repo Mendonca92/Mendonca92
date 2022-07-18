@@ -5,7 +5,7 @@
 - 🎓 Acadêmico em Análise e Desenvolvimento de Sistemas
 - 🔭 Objetivo futuro: Dev Fullstack
 
-<div align="center">
+<div>
   <a href="https://github.com/mendonca92">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mendonca92&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendonca92&layout=compact&langs_count=7&theme=blue-green"/>
@@ -25,5 +25,5 @@
   <a href="mailto:erick.gmrio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erick-mendonça-44b05a163" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mendonca92/mendonca92/blob/output/github-contribution-grid-snake.svg)
 </div>
