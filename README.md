@@ -3,7 +3,7 @@
 - 👨‍💻 Atualmente sou estagiário em desenvolvimento back-end PHP / PostgreSQL
 - 🌱 Estou estudando tecnologias para desenvolvimento front-end
 - 🎓 Acadêmico em Análise e Desenvolvimento de Sistemas
-- 🔭 Objetivo futuro: Dev Fullstack
+- 🔭 Objetivo profissional: Me tornar Web Dev. Fullstack
 
 <div>
   <a href="https://github.com/mendonca92">
