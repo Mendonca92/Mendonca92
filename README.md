@@ -1,6 +1,6 @@
 ## Olá, eu sou o Erick Mendonça!! 👋😁
 
-- 👨‍💻 Atualmente sou estagiário em desenvolvimento back-end PHP / PostgreSQL
+- 👨‍💻 Atualmente sou estagiário em desenvolvimento PHP
 - 🌱 Estou estudando tecnologias para desenvolvimento front-end
 - 🎓 Acadêmico em Análise e Desenvolvimento de Sistemas
 - 🔭 Objetivo profissional: Me tornar Dev. Web Fullstack
