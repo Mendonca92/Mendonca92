@@ -1,14 +1,14 @@
 ## Olá, eu sou o Erick Mendonça!! 👋😁
 
-- 👨‍💻 Atualmente sou estagiário em desenvolvimento PHP
+- 👨‍💻 Iniciei no mundo da programação como desenvolvedor back-end PHP
 - 🌱 Estou estudando tecnologias para desenvolvimento front-end
-- 🎓 Acadêmico em Análise e Desenvolvimento de Sistemas
+- 🎓 Sou acadêmico em Análise e Desenvolvimento de Sistemas
 - 🔭 Objetivo profissional: Me tornar Dev. Web Fullstack
 
-<div>
-  <a href="https://github.com/mendonca92">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendonca92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendonca92&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
