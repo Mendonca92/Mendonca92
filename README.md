@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/mendonca92">
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendonca92)](https://github.com/anuraghazra/github-readme-stats)">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendonca92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
 <div style="display: inline_block"><br>
